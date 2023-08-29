@@ -10,7 +10,7 @@ Interaction:
 Object:
 -Hint Object： Picture on wall, books, puzzle, table, Mug
 -Question object:Door, Window, Underground
--QnA Hint Object: time-based, locate-based, interact with special items
+-QnA Hint Object: time-based, locate-based（暂定）, interact with special items
 -Mission Object that storable: Puzzle, Hint key, touchlight, special object for certain scenario (if have)
 -Store Object: Hint key, Time, Pet:Slow time, discover hints, increase coin, 
 
