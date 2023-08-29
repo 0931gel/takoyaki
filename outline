@@ -1,0 +1,52 @@
+Game：Escape room x Statistic
+
+Rule: Escape room in required time
+Objective: To enchance the interest in statistic
+
+Interaction: 
+-Player movement: Walk, Run, Static
+-Player Interaction: Push/Pull object, Destroy, Pick up, Drop, Store object as asset, Put object at located place, Deleted/Remove, Apply object
+
+Object:
+-Hint Object： Picture on wall, books, puzzle, table, Mug
+-Question object:Door, Window, Underground
+-QnA Hint Object: time-based, locate-based, interact with special items
+-Mission Object that storable: Puzzle, Hint key, touchlight, special object for certain scenario (if have)
+-Store Object: Hint key, Time, Pet:Slow time, discover hints, increase coin, 
+
+Challenge:
+-Room: 
+To escape the room, player should solve the question on the door in required time. 
+Hint will be given when player discover or interct with hint object OR purcase it in store. 
+Random QnA question might be pop up if player trigger the QnA hint object. 
+Answer QnA question will reward player coin. Coin is used to buy hints or special buff in Store.
+
+-QnA questions: 
+Question should allow player to answer it in a short period of time. The QnA questions have different time setting with the Room time. 
+
+Feedback:
+Mouse change into magnifier and focus view when need to interact.
+
+-Object:
+  Hint object: Glowing visual outline of object
+  Question object: sound effect and focus view
+  QnA hint object: pop up with time-rushing background music
+  Storing object: music effect
+  Purchase Object: money purchasing sound effect
+
+Outcome:
+-Room:
+  success escape
+  fail escape
+  time is almost out
+
+-QnA questions:
+  correct
+  wrong
+
+Interactivity: 
+-Puzzle to unclock new level
+-Remaining time that could change to coin
+
+Entertainment: 
+-Challenges to unclock level
