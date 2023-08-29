@@ -1,0 +1,25 @@
+Learning Theory
+Hypothesis Testing
+Q1: What are the 5 steps:
+// Step 1: State null and alternative hypothesis //
+// Step 2: Select a level of significance //
+// Step 3: Identify test statistic //
+// Step 4: Formulate decision rule//
+// Step 5: Take a sample, and arrive at a decision//
+
+Q2A: Null Hypothesis (Ho)
+// State there is no difference between parameter and specific value //
+Q2B: Alternative Hypothesis (H1)
+// State there is an existence value between the parameter and specific value //
+
+Q3: Type of test
+// a) 1-tailed test: left_tailed and right-tailed //
+//    - Ho should be rejected when the test value is a critical region on one side of the mean //
+// b) 2-tailed test //
+//    - Ho should be registered when the test value is in either of the 2 critical regions//
+
+Q4: Level of significance
+// Max probability of committing a type error //
+// 0.10(10%), 0.05(5%), 0.01(1%) //
+
+Q5: Formula
