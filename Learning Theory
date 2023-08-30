@@ -25,4 +25,8 @@ Q4: Level of significance
 Q5: Formula
 
 Quiz
-Q1: 
+Q1: Type 1 error
+H0 true but reject
+Q2: Type 2 error
+H0 false but accept
+Q3: directional =  one tail, non-directional= two tail
